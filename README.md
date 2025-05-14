@@ -6,7 +6,7 @@ A collection of developer tools and starter templates for quickly connecting to 
 
 ## 📋 Table of Contents
 
-- [Webhook Receiver](#webhook-receiver)
+- [Webhook Receiver](https://github.com/JamesB33/cfgi-api-templates/tree/main/webhook-express-app)
 - [API Client Starter](#api-client-starter)
 - [License](#license)
 
