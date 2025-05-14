@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>SSE Webhook Stream</h2>
+    <pre id="output"></pre>
+    <script>
+      const output = document.getElementById("output");
+      const evtSource = new EventSource(
+        "http://localhost:3002/api/webHook/stream"
+      );
+      evtSource.onmessage = function (event) {
+        output.textContent += event.data + "\n";
+      };
+    </script>
+  </body>
+</html>
