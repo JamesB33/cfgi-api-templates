@@ -33,14 +33,6 @@ A template for quickly building clients that connect to our APIs.
 
 ---
 
-## 🔐 Authentication Playground
-
-[![Authentication Playground](https://img.shields.io/badge/Coming%20Soon-Auth%20Playground-yellow?logo=passport)](#authentication-playground)
-
-Test and experiment with different authentication flows.
-
----
-
 ## 📄 License
 
 MIT
